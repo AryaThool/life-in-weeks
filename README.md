@@ -4,6 +4,10 @@ A beautiful, interactive web application that helps you visualize your entire li
 
 ![Life in Weeks Timeline](https://lifeinweeks.aryathool.in/)
 
+## 🌐 Live Demo Link
+
+[Life In Weels](https://lifeinweeks.aryathool.in/)
+
 ## 🌟 Project Overview
 
 Life in Weeks Timeline is inspired by the concept that an average human life spans approximately 4,160 weeks. This application helps you:
@@ -172,7 +176,5 @@ Make sure to set up the following environment variables in your deployment platf
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-**Live Demo**: [Life In Weels](https://lifeinweeks.aryathool.in/)
 
 Made with ❤️ for life storytellers everywhere.
