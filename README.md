@@ -2,7 +2,7 @@
 
 A beautiful, interactive web application that helps you visualize your entire life story week by week. Transform your personal milestones into a stunning visual timeline, preserve precious memories with file attachments, and gain insights into your life's journey.
 
-![Life in Weeks Timeline](https://roaring-liger-0c760b.netlify.app)
+![Life in Weeks Timeline](https://lifeinweeks.aryathool.in/)
 
 ## 🌟 Project Overview
 
@@ -167,22 +167,12 @@ Make sure to set up the following environment variables in your deployment platf
 5. **Add Historical Events**: Use the historical events feature to add world events
 6. **Export Your Timeline**: Generate beautiful reports and exports of your life story
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- Inspired by the "Life in Weeks" concept popularized by Tim Urban of Wait But Why
-- Built with modern web technologies and best practices
-- Designed with user privacy and data ownership in mind
-
 ---
 
-**Live Demo**: [https://roaring-liger-0c760b.netlify.app](https://roaring-liger-0c760b.netlify.app)
+**Live Demo**: [Life In Weels](https://lifeinweeks.aryathool.in/)
 
 Made with ❤️ for life storytellers everywhere.
