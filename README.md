@@ -2,7 +2,7 @@
 
 A beautiful, interactive web application that helps you visualize your entire life story week by week. Transform your personal milestones into a stunning visual timeline, preserve precious memories with file attachments, and gain insights into your life's journey.
 
-![Life in Weeks Timeline](https://lifeinweeks.aryathool.in/)
+![Life in Weeks Timeline](https://ik.imagekit.io/3f2932qku/Screenshot%202025-06-14%20164611.png?updatedAt=1749899720536)
 
 ## 🌐 Live Demo Link
 
